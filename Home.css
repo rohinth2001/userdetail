@@ -1,0 +1,17 @@
+.home{
+   margin-left: 12px;
+   margin-top: 8px;
+    background-color: chartreuse;
+    width: 350px;
+    height: 710px;
+outline-style: double;
+}
+.names{
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(9, 177, 243);
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,20 @@
+.home_{
+    float: left;
+}
+.info_{
+    float: right;
+}
+.head{
+    margin-left: 20px;
+    height: 30px;
+    background-color: rgb(38, 231, 199);
+    color: rgb(252, 252, 252);
+}
+.log{
+    margin-right: 20px;
+    float:right;
+    padding-left: 20px;
+}
+.sig{
+    float: right;
+}

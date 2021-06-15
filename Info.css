@@ -1,0 +1,46 @@
+.info{
+    outline-style: double;
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 900px;
+    height: 710px;
+    background-color: rgb(105, 241, 42);
+}
+.out1{  
+
+
+    background-color: deepskyblue;
+    font-size: 22px;
+    margin-left:450px;
+    margin-top: 20px;
+    width: 300px;
+    height:180px;
+    outline-style: groove;
+    outline-color: darkviolet;
+    outline-width: 8px;
+
+}
+.text{
+    color: rgb(69, 226, 82);
+}
+.button1{
+    width: 60px;
+    height: 40px;
+    float: right;
+    color: snow;
+    margin-right: 280px;
+    background-color: red;
+}
+.button2{
+    margin-left: 360px;
+    width: 60px;
+    height: 40px;    
+    float: left;
+    color: snow;
+    background-color: red;
+}
+.nouser{
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+}
