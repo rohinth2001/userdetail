@@ -1,5 +1,7 @@
  url = https://rohinth2001.github.io/userdetail/
-in this project we have to create an account by clicking "create your project account" or by clicking "google icon"
+I have used "REACT JS" and "FIREBASE"  to develope a project
+
+In this project I have to create an account by clicking "create your project account" or by clicking "google icon"
 and then login in to your account.
 
 Firebase is used for autentication
